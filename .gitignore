@@ -16,7 +16,12 @@
 /tmp/*
 !/log/.keep
 !/tmp/.keep
-
+/app/views
+/app/assets
+/bin
+/test
+/tmp
+/vendor
 /node_modules
 /yarn-error.log
 /config/secrets.yml
